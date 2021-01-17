@@ -14,6 +14,8 @@ npm install
 
 Use `npm start` to run the application, this handles the compilation to normal javascript for typescript.
 
+## Data Structure
+
 ### Input Folder
 
 ```
