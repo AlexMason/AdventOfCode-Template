@@ -8,9 +8,11 @@ This is an Advent of Code template for TypeScript.
 git clone https://github.com/AlexMason/AdventOfCode-Template.git ${PROJECT_DIR}
 cd ${PROJECT_DIR}
 npm install
-
-npm start
 ```
+
+### Running the project
+
+Use `npm start` to run the application, this handles the compilation to normal javascript for typescript.
 
 ### Input Folder
 
